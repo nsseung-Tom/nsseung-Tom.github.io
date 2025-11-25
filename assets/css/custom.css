@@ -1,18 +1,10 @@
-/* 사이드바 프로필 사진: 크게 + 네모 + 왼쪽 정렬 + 짤림 없음 */
+/* 사이드바 프로필 사진: 사이드바 너비에 맞게 + 네모 */
 .author__avatar {
   width: 100% !important;
-  max-width: 220px !important;
-  height: auto !important;
-  display: block !important;
-  margin-left: 0 !important;
-  margin-right: auto !important;
 }
 
 .author__avatar img {
   width: 100% !important;
   height: auto !important;
-  object-fit: contain !important;
   border-radius: 0 !important;
-  border: none !important;
-  box-shadow: none !important;
 }
