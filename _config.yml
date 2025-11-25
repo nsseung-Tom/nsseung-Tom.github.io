@@ -1,29 +1,24 @@
 # Site Settings
 title: "Hyunseung Lee"
 name: "Hyunseung Lee"
-email: "thomas96124@gmail.com"
 description: "M.A. Economics @ Seoul National University"
 url: "https://hyunseung-data.github.io"
 baseurl: ""
 
-# Theme
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark"
+# Theme - Academic Pages
+remote_theme: "academicpages/academicpages.github.io"
 
-# Site Author (왼쪽 사이드바)
+locale: "en-US"
+markdown: kramdown
+
+# Site Author
 author:
   name: "Hyunseung Lee"
   avatar: "/assets/img/profile.jpeg"
-  bio: "M.A. Economics @ SNU"
+  bio: "M.A. Economics @ SNU<br>Aspiring Data Scientist"
   location: "Seoul, South Korea"
   email: "thomas96124@gmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:thomas96124@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/hyunseung-data"
+  github: "hyunseung-data"
 
 # Defaults
 defaults:
@@ -33,17 +28,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-      toc: false
 
-# Build Settings
-markdown: kramdown
-locale: "en-US"
+# Include
 include: ["_pages"]
 
 # Plugins
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
   - jekyll-remote-theme
