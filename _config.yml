@@ -14,7 +14,7 @@ markdown: kramdown
 # Site Author (왼쪽 사이드바)
 author:
   name: "Hyunseung Lee"
-  avatar: "/images/profile.jpeg"
+  avatar: "https://hyunseung-data.github.io/images/profile.jpeg"
   bio: "M.A. Economics @ SNU"
   location: "Seoul, South Korea"
   email: "thomas96124@gmail.com"
