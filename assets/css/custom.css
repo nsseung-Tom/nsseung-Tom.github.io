@@ -1,5 +1,12 @@
-/* 사이드바 프로필 사진: 크게 + 네모 */
+/* 사이드바 프로필 사진: 사이드바 꽉 차게 + 네모 + 테두리 없음 */
+.author__avatar {
+  width: 100% !important;
+}
+
 .author__avatar img {
-  max-width: 200px !important;
+  max-width: 100% !important;
+  width: 100% !important;
   border-radius: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
 }
