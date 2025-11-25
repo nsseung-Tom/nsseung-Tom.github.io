@@ -4,31 +4,30 @@ title: "Welcome"
 permalink: /
 ---
 
-<img src="/assets/img/profile.jpg" alt="Hyunseung Lee" width="180" style="border-radius: 8px; float:right; margin-left: 20px; margin-bottom: 10px;">
+<div style="display: flex; align-items: flex-start; gap: 2rem; margin-top: 2rem;">
 
-Hi! I am **Hyunseung Lee**, an M.A. student in Economics at **Seoul National University** advised by Prof. Jungmin Lee.
+  <img src="/assets/img/profile.jpeg"
+       alt="Hyunseung Lee"
+       style="width: 160px; border-radius: 50%; flex-shrink: 0;">
 
-My research interests include:
-- Labor Economics
+  <div>
+    <h1>Welcome</h1>
+    <p>
+      Hi! I am <strong>Hyunseung Lee</strong>, an M.A. student in
+      Economics at <strong>Seoul National University</strong> advised by Prof. Jungmin Lee.
+    </p>
+
+    <p>My research interests include:</p>
 - Minimum Wage and Labor Market Adjustment
-- Data-driven Policy Evaluation
+- Data-driven Policy EvaluatioE
 - Applied Microeconometrics
 
 Previously, I worked as a **Data Analyst → Data Product Manager** at Viva Republica (Toss), where I led data-driven product initiatives as the company expanded toward a financial super app.
 
 📧 thomas96124@gmail.com  
 📍 Seoul, South Korea  
+  </div>
 
----
-
-## Latest Research
-
-**Reallocation Channel of a Minimum-Wage Shock**  
-Slides | PDF (Coming Soon)
-
-**Family-Friendly Firms and the Motherhood Penalty**  
-Slides | PDF (Coming Soon)
-
----
+</div>
 
 Thanks for visiting my page! 😊  
