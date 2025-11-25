@@ -4,33 +4,31 @@ title: "Welcome"
 permalink: /
 ---
 
-Hi, I am **Hyunseung Lee**, an M.A. student in Economics at **Seoul National University** advised by Prof. Jungmin Lee.  
-I am interested in **labor economics**, **minimum wage policy**, and **data-driven policy evaluation**, using large-scale administrative data and causal inference methods.
+<img src="/assets/img/profile.jpg" alt="Hyunseung Lee" width="180" style="border-radius: 8px; float:right; margin-left: 20px; margin-bottom: 10px;">
 
-I previously worked as a **Data Analyst and Data Product Manager** at Viva Republica (Toss), where I led data-driven product initiatives as the company expanded toward a financial super app.
+Hi! I am **Hyunseung Lee**, an M.A. student in Economics at **Seoul National University** advised by Prof. Jungmin Lee.
 
----
+My research interests include:
+- Labor Economics
+- Minimum Wage and Labor Market Adjustment
+- Data-driven Policy Evaluation
+- Applied Microeconometrics
 
-## Research
+Previously, I worked as a **Data Analyst → Data Product Manager** at Viva Republica (Toss), where I led data-driven product initiatives as the company expanded toward a financial super app.
 
-- **Reallocation Channel of a Minimum-Wage Shock**  
-  *with Prof. Jungmin Lee*  
-  Using nationwide employer–employee matched data (2015–2020, 300M+ obs), this project studies how minimum wage increases reallocate workers toward higher-paying, more productive, and more stable firms, and how these effects vary across regional business cycles.  
-  [Slides (PDF)](#) • [Abstract](#)
-
-- **Family-Friendly Firms and the Motherhood Penalty**  
-  *with Tammy Lee and Prof. Jungmin Lee*  
-  Analyzing how flexible work arrangements, on-site childcare, and remote-work options mitigate the motherhood penalty in employment and wages, using causal forest models to capture heterogeneous treatment effects.  
-  [Slides (PDF)](#)
+📧 thomas96124@gmail.com  
+📍 Seoul, South Korea  
 
 ---
 
-## Selected Data & Analytics Projects
+## Latest Research
 
-- **DiD-inspired Engagement Metric at Toss**  
-  Designed a Difference-in-Differences–inspired engagement metric to measure each service’s causal contribution to total app usage, deployed via company-wide dashboards for strategic decision-making.
+**Reallocation Channel of a Minimum-Wage Shock**  
+Slides | PDF (Coming Soon)
 
-- **Forecasting Inflation with Deep Learning**  
-  Built a VAR and Bayesian LSTM model to forecast inflation, combining macroeconomic time series with uncertainty-aware deep learning.
+**Family-Friendly Firms and the Motherhood Penalty**  
+Slides | PDF (Coming Soon)
 
-For more details, see the [Projects](/projects/) page.
+---
+
+Thanks for visiting my page! 😊  

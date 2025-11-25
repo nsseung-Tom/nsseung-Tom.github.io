@@ -4,6 +4,6 @@ title: "CV"
 permalink: /cv/
 ---
 
-You can download my latest CV here:
+👉 Download my latest CV here:
 
-- [Download CV (PDF)](/assets/cv.pdf)
+📄 [CV (PDF)](/assets/files/CV.pdf)

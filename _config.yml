@@ -13,10 +13,8 @@ locale: "en-US"
 
 markdown: kramdown
 
-# 네비게이션 메뉴 설정
 navbar:
   title: "Hyunseung Lee"
-  logo: # 필요 없으면 비워둬도 됨
   nav:
     - title: "Home"
       url: /
@@ -32,4 +30,3 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
-

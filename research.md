@@ -7,24 +7,18 @@ permalink: /research/
 ## Working Papers & Ongoing Projects
 
 ### Reallocation Channel of a Minimum-Wage Shock
-**with Prof. Jungmin Lee**  
-*Nov 2024 – Present*
+*with Prof. Jungmin Lee*
 
-Using employer–employee matched administrative data from Statistics Korea (2015–2020), this project examines how minimum wage increases trigger labor reallocation toward higher-paying, more productive, and more stable firms.  
-I further study how **regional business cycles** moderate both employment adjustments and reallocation, identifying local labor demand conditions as a key mechanism behind minimum-wage effects.
+Exploring labor reallocation following minimum-wage increases using Korea's nationwide employer–employee matched data (2015–2020, 300M+ obs), and identifying how regional business cycles moderate both employment and reallocation adjustments.
 
-- **Slides:** [PDF link](#)
-- **Abstract:** (to be added)
-- **Code:** (internal, not public yet)
+- Slides: (Coming soon)
+- PDF Working Paper: (Coming soon)
 
 ---
 
 ### Family-Friendly Firms and the Motherhood Penalty
-**with Tammy Lee and Prof. Jungmin Lee**  
-*Nov 2023 – Present*
+*with Tammy Lee and Prof. Jungmin Lee*
 
-This project explores how “family-friendly” firm policies, such as flexible hours, on-site childcare, and remote-work options, mitigate the motherhood penalty in employment and earnings.  
-I apply **causal forest models** (Athey et al., 2019) to estimate heterogeneous treatment effects across firms and worker types.
+Studying how flexible work arrangements, on-site childcare, and remote-working environments mitigate the motherhood penalty using causal forest models.
 
-- **Slides:** [PDF link](#)
-- **Methods:** Causal forests, event-study design
+- Slides: (Coming soon)
