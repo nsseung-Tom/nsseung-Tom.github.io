@@ -11,14 +11,20 @@ remote_theme: "academicpages/academicpages.github.io"
 locale: "en-US"
 markdown: kramdown
 
-# Site Author
+# Site Author (왼쪽 사이드바)
 author:
   name: "Hyunseung Lee"
-  avatar: "images/profile.jpeg"
-  bio: "M.A. Economics @ SNU<br>Aspiring Data Scientist"
+  avatar: "/images/profile.jpeg"
+  bio: "M.A. Economics @ SNU"
   location: "Seoul, South Korea"
   email: "thomas96124@gmail.com"
-  github: "hyunseung-data"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:thomas96124@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hyunseung-data"
 
 # Defaults
 defaults:
