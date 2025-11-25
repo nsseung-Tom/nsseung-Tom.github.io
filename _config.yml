@@ -7,7 +7,7 @@ first_name: Hyunseung
 last_name: Lee
 email: thomas96124@gmail.com
 description: >
-  M.A. Economics @ Seoul National University | Aspiring Data Scientist | Causal Inference & Machine Learning
+  M.A. Economics @ Seoul National University | Aspiring Data Scientist
 url: https://hyunseung-data.github.io
 baseurl: ""
 
@@ -22,10 +22,9 @@ remote_theme: alshedivat/al-folio
 navbar_fixed: true
 footer_fixed: false
 search_enabled: false
-socials_in_search: false
 
 # Dimensions
-max_width: 940px
+max_width: 800px
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
@@ -38,13 +37,7 @@ og_image: /assets/img/profile.jpeg
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: hyunseung-data
-linkedin_username: hyunseunglee
 email_address: thomas96124@gmail.com
-
-# -----------------------------------------------------------------------------
-# Analytics
-# -----------------------------------------------------------------------------
-# google_analytics: UA-XXXXXXXXX-X
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -55,24 +48,12 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
 markdown: kramdown
 highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    css_class: 'highlight'
-    span:
-      line_numbers: false
-    block:
-      line_numbers: false
-      start_line: 1
 
 # Includes & Coverage
 include: ['_pages']
@@ -81,31 +62,15 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - _bibliography
 
-# Plug-ins
+# Plug-ins (간소화)
 plugins:
-  - jekyll-archives
-  - jekyll-email-protect
   - jekyll-feed
-  - jekyll-get-json
-  - jekyll-imagemagick
-  - jekyll-jupyter-notebook
-  - jekyll-link-attributes
-  - jekyll-minifier
-  - jekyll-paginate-v2
-  - jekyll-regex-replace
-  - jekyll-scholar
   - jekyll-sitemap
   - jekyll-toc
-  - jekyll-twitter-plugin
   - jemoji
-
-# -----------------------------------------------------------------------------
-# Jekyll Scholar
-# -----------------------------------------------------------------------------
-scholar:
-  last_name: [Lee]
-  first_name: [Hyunseung]
+  - jekyll-remote-theme
 
 # Sitemap settings
 defaults:
@@ -115,22 +80,12 @@ defaults:
       sitemap: false
 
 # -----------------------------------------------------------------------------
-# Pagination
-# -----------------------------------------------------------------------------
-pagination:
-  enabled: true
-
-# -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
 enable_google_analytics: false
-enable_panelbear_analytics: false
-enable_google_verification: false
-enable_bing_verification: false
-enable_masonry: true
-enable_math: true
+enable_masonry: false
+enable_math: false
 enable_tooltips: false
 enable_darkmode: true
-enable_navbar_hierarchies: false
-enable_project_categories: true
-enable_medium_zoom: true
+enable_project_categories: false
+enable_medium_zoom: false

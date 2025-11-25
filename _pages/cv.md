@@ -1,9 +1,35 @@
 ---
-layout: cv
+layout: page
 title: CV
 permalink: /cv/
-description: Curriculum Vitae
+description: 
 nav: true
 nav_order: 3
-cv_pdf: CV.pdf
 ---
+
+<a href="/assets/files/CV.pdf" style="display: inline-block; padding: 12px 24px; background: #333; color: white; text-decoration: none; border-radius: 5px; font-weight: 500;">📄 Download CV (PDF)</a>
+
+---
+
+## Education
+
+**M.A. in Economics** — Seoul National University *(2024 – Present)*
+- Advisor: Prof. Jungmin Lee
+
+**B.A. in Economics** — Seoul National University *(2015 – 2019)*
+
+---
+
+## Experience
+
+**Data Product Manager** — Toss (Viva Republica) *(2021 – 2024)*
+
+**Data Analyst** — Toss (Viva Republica) *(2019 – 2021)*
+
+---
+
+## Skills
+
+- **Programming**: Python, R, SQL, Stata
+- **Machine Learning**: scikit-learn, PyTorch, XGBoost
+- **Causal Inference**: DiD, IV, RDD, Causal Forest
